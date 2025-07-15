@@ -1,0 +1,23 @@
+{
+  "name": "taller_propiedades_jsc9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Ejercicio1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crowtinho/taller_propiedades_jsc9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crowtinho/taller_propiedades_jsc9/issues"
+  },
+  "homepage": "https://github.com/Crowtinho/taller_propiedades_jsc9#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
